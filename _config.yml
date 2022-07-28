@@ -57,6 +57,8 @@ menu:
     url:               /nutrition/
   - title:             BJJ
     url:               /bjj/
+  - title:             Rehab
+    url:               /rehab/
   - title:             Contact
     url:               /contact/
 

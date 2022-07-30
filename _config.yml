@@ -49,14 +49,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Fitness
-    url:               /fitness/
-  - title:             Nutrition
-    url:               /nutrition/
-  - title:             BJJ
-    url:               /bjj/
-  - title:             Rehab
-    url:               /rehab/
+  #- title:             Fitness
+  #  url:               /fitness/
+  #- title:             Nutrition
+  #  url:               /nutrition/
+  #- title:             BJJ
+  #  url:               /bjj/
+  #- title:             Rehab
+  #  url:               /rehab/
   - title:             Contact
     url:               /contact/
 

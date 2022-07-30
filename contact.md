@@ -2,7 +2,7 @@
 layout: page
 title: Contact 
 description: >
-  Workout programs, BJJ/wrestling privates, Diet program, and Rehab program, all specific to your needs.
+  Personalized Workout programs, BJJ/wrestling privates, Diet program, and Rehab program.
 hide_description: false
 sitemap: false
 permalink: /contact/

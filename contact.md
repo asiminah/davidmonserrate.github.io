@@ -12,4 +12,4 @@ If you would like a personalized Workout program, Diet program, or Rehab program
 
 For business inquiries, contact me at [davidianmonserrate@gmail.com](mailto:davidianmonserrate@gmail.com). 
 
-(You can change the description to provide whatever services you are willing to offer. I just wrote a few that you would be qualified to do. I can figure out how to make this page a contact form instead, that might be a better format. This page is also important so that potential sponsors can contact you as well.)
+(This page is also important so that potential sponsors can contact you as well.)

@@ -49,6 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:              Services
+    url:                /services/
   #- title:             Fitness
   #  url:               /fitness/
   #- title:             Nutrition

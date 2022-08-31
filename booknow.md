@@ -6,7 +6,7 @@ sitemap: false
 permalink: /booknow/
 ---
 
-Welcome! I am excited to work with you. Please click here to schedule a session with me. 
+Welcome! I am excited to work with you. Please [click here](https://squareup.com/appointments/buyer/widget/jdyinmid6l9s5s/LRDM3EMP28ZVE.js) to schedule a session with me. 
 
 <!-- Start Square Appointments Embed Code --><script src='https://squareup.com/appointments/buyer/widget/jdyinmid6l9s5s/LRDM3EMP28ZVE.js'></script><!-- End Square Appointments Embed Code -->
 

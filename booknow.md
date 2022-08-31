@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Book Now
-<!--
-description: >
-  Knowledge on different drills, competition strategies, training mentality, etc. 
--->
 hide_description: false
 sitemap: false
 permalink: /booknow/
 ---
 
-I will work on this format later. 
+Welcome! I am excited to work with you. Please click here to schedule a session with me. 
+
+Upon completion of the form, you will receive an email and text notifying you of your appointment. Once the appointment is accepted, you will receive a follow up email requesting that you fill out a liability form. 

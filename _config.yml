@@ -57,8 +57,10 @@ menu:
   #  url:               /bjj/
   #- title:             Rehab
   #  url:               /rehab/
-  - title:             Contact
-    url:               /contact/
+  #- title:             Contact
+  #  url:               /contact/
+  - title:             Book Now
+    url:               /booknow/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

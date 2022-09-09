@@ -6,7 +6,7 @@ sitemap: false
 permalink: /services/
 ---
 
-Below is a list of services, with descriptions, that I provide. If you are interested in any of these, then click here to book now!
+Below is a list of services, with descriptions, that I provide. If you are interested in any of these, then click [here](https://davidmonserrate.github.io/booknow/) to book now!
 
 ## BJJ Gi Privates
 These are 1 hour long, one on one private lessons with the gi. Training will be tailored for the athlete.

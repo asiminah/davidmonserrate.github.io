@@ -6,4 +6,6 @@ sitemap: false
 permalink: /services/
 ---
 
-Testing
+* BJJ Gi Privates
+* BJJ No-gi Privates
+* Personal Training Sessions

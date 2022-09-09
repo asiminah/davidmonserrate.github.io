@@ -8,11 +8,11 @@ permalink: /services/
 
 Below is a list of services, with descriptions, that I provide:
 
-## BJJ Gi 
-* BJJ Gi Privates
+## BJJ Gi Privates
+* 1 hour long
 
-# BJJ No-gi
-* BJJ No-gi Privates
+## BJJ No-gi Privates
+* 1 hour long
 
-# Personal Training
+## Personal Training Sessions
 * Personal Training Sessions

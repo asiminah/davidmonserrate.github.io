@@ -12,5 +12,6 @@ permalink: /results/
 * New England Submission Only No-Gi Championship 2022, Expert ivision champion
 
 ![Pans](/assets/img/Pans.jpg)
+
 {:.image-caption}
 *(In order: Rodrigo Gabriel Silva Mariani, Jozef Chen, David Ian Monserrate, Rafael Leite Borges.)*

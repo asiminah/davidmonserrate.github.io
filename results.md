@@ -14,4 +14,4 @@ permalink: /results/
 ![Pans](/assets/img/Pans.jpg)
 
 {:.image-caption}
-*(In order: Rodrigo Gabriel Silva Mariani, Jozef Chen, David Ian Monserrate, Rafael Leite Borges.)*
+*(Left to right: Rodrigo Gabriel Silva Mariani, Jozef Chen, David Ian Monserrate, Rafael Leite Borges.)*

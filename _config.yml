@@ -49,7 +49,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:              Tournament Results
+  - title:              Competition Results
     url:                /results/
   - title:              Services
     url:                /services/

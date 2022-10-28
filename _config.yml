@@ -51,6 +51,8 @@ author:
 menu:
   - title:              Competition Results
     url:                /results/
+  - title:              Coaching
+    url:                /coaching/
   - title:              Services
     url:                /services/
   #- title:             Fitness

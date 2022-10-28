@@ -8,9 +8,11 @@ permalink: /coaching/
 
 Coaching Schedule
 
-| Times         | Monday      |  Wednesday    |  Friday   |
-| :----:        |    :----:   |     :---:     |  :----:   |
-| 10AM-11:30AM  | No-Gi       |  No-Gi        |  No-Gi    |
+| Times           | Monday      |  Wednesday    |  Friday   |
+| :----:          |    :----:   |     :---:     |  :----:   |
+| --------------  |  -----      |    ------     |  ------   |
+| 10am - 11:30am  |  No-Gi      |  No-Gi        |  No-Gi    |
+| --------------  |  -----      |  -----        |  -----    |
 
 
 

@@ -10,7 +10,7 @@ I am currently coaching a No-Gi class Mon/Wed/Fri mornings at [Secret Pages](htt
 
 
 | Times           | Monday      | Tuesday |  Wednesday  | Thursday |  Friday   |
-| :----:          |    :----:   | ------- |     :---:   |          |  :----:   |
+| :----:          |    :----:   | :----:  |     :---:   |  :----:  |  :----:   |
 | --------------  |  -----      | ------- |    -----    |          |  -----    |
 | 10am - 11:30am  |  No-Gi      | ------- |    No-Gi    |          |  No-Gi    |
 | --------------  |  -----      | ------- |    -----    |          |  -----    |

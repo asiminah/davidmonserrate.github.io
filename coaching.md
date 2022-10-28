@@ -6,7 +6,7 @@ sitemap: false
 permalink: /coaching/
 ---
 
-I am currently coaching a No-Gi class Mon/Wed/Fri mornings at [Secret Pages](http://secretpagesbjj.com/). Feel free to drop by!
+I am currently coaching a No-Gi class Mon/Wed/Fri mornings at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/). Feel free to drop by!
 
 
 | Times           | Monday      | Tuesday |  Wednesday  | Thursday |  Friday   |

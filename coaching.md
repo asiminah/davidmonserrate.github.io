@@ -8,10 +8,10 @@ permalink: /coaching/
 
 Coaching Schedule
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Times         | Monday      |  Wednesday    |  Friday   |
+| :----:        |    :----:   |     :---:     |  :----:   |
+| 10AM-11:30AM  | No-Gi       |  No-Gi        |  No-Gi    |
+
 
 
 <!--

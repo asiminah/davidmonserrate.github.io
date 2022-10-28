@@ -11,7 +11,7 @@ Below is a list of services, with descriptions, that I provide. If you are inter
 ## BJJ Gi Privates
 These are 1 hour long, one on one private lessons with the gi. Training will be tailored for the athlete.
 
-## BJJ No-gi Privates
+## BJJ No-Gi Privates
 These are 1 hour long, one on one private lessons without the gi. This includes no-gi and wrestling privates. Training will be tailored for the athlete. 
 
 ## Personal Training Sessions

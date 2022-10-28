@@ -6,7 +6,8 @@ sitemap: false
 permalink: /coaching/
 ---
 
-Coaching Schedule
+I am currently coaching a No-Gi class Mon/Wed/Fri mornings at [Secret Pages](http://secretpagesbjj.com/). Feel free to drop by!
+
 
 | Times           | Monday      |  Wednesday    |  Friday   |
 | :----:          |    :----:   |     :---:     |  :----:   |
@@ -15,6 +16,7 @@ Coaching Schedule
 | --------------  |  -----      |  -----        |  -----    |
 
 
+The gym is located at 45 Industrial Park Road West Unit J/K Tolland, CT 06084. 
 
 <!--
 ![Pans](/assets/img/Pans.jpg)

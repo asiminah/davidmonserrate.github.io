@@ -25,5 +25,5 @@ The gym is located at [45 Industrial Park Road West Unit J/K Tolland, CT 06084](
 *(Left to right: Rodrigo Gabriel Silva Mariani, Jozef Chen, David Ian Monserrate, Rafael Leite Borges.)*
 -->
 
-
+# Self-defense classes
 I also occasionally help run self-defense classes for kids and adults at elementary and middle schools with [F.I.T.E. Fit Wellness](https://www.joinfitefit.com/about). Feel free to reach out if you are interested in hosting a self-defense class!

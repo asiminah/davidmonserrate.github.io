@@ -6,7 +6,7 @@ sitemap: false
 permalink: /coaching/
 ---
 
-I am currently coaching No-Gi classes Mon/Wed/Fri mornings at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/) and Thurs. at The Yoga Shop in Glastonbury. Feel free to drop by!
+I am currently coaching No-Gi classes Mon/Wed/Fri mornings at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/) and Thurs. at [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule). Feel free to drop by!
 
 
 | Times           | Monday      | Tuesday |  Wednesday  | Thursday |  Friday   |

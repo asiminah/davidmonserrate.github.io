@@ -29,3 +29,9 @@ The Thursday class is located at [122 Naubuc Ave. Glastonbury, CT, 06033](https:
 
 # Self-defense classes
 I also occasionally help run self-defense classes for kids and adults at elementary and middle schools with [F.I.T.E. Fit Wellness](https://www.joinfitefit.com/about). Feel free to reach out if you are interested in hosting a self-defense class!
+
+
+
+![Flyer](/assets/img/DavidMonserrate.png)
+
+

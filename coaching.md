@@ -32,7 +32,7 @@ I also occasionally help run self-defense classes for kids and adults at element
 
 
 
-/assets/img/DavidMonserrate.png
+[image](/assets/img/DavidMonserrate.png)
 
 
 

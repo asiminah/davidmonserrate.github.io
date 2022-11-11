@@ -32,6 +32,7 @@ I also occasionally help run self-defense classes for kids and adults at element
 
 
 
-picture: /assets/img/DavidMonserrate.png
+/assets/img/DavidMonserrate.png
+
 
 

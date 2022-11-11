@@ -13,7 +13,7 @@ I am currently coaching a No-Gi class Mon/Wed/Fri mornings at [Secret Pages Braz
 | :----:          |    :----:   | :----:  |     :---:   |  :----:  |  :----:   |
 | ----            |             |         |             |          |           |
 | 10am - 11:30am  |  No-Gi      |         |    No-Gi    |          |  No-Gi    |
-| ----            |             |         |             |          |           |
+| 12pm - 1:30pm   |             |         |             |  No-Gi   |           |
 
 
 The gym is located at [45 Industrial Park Road West Unit J/K Tolland, CT 06084](https://www.google.com/maps/place/45+Industrial+Park+Rd+W+j+k,+Tolland,+CT+06084/@41.8616852,-72.4229091,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6f426970fa11f:0xcb089c41736fdb9e!8m2!3d41.8616812!4d-72.4207151). 

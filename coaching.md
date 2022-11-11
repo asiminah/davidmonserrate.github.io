@@ -34,7 +34,5 @@ I also occasionally help run self-defense classes for kids and adults at element
 
 ![Flyer](/assets/img/DavidMonserrateV3.png)
 
-{:.image-caption}
-* (DM for more info.) *
 
 

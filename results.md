@@ -16,7 +16,9 @@ permalink: /results/
 * [Washington D.C. International Open IBJJF Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1936/PublicResults), Male/Adult/Purple/Middle, 3rd place
 * New England Submission Only No-Gi Championship 2022, Expert ivision champion
 
-![Pans](/assets/img/Pans.jpg)
+![NewHaven](/assets/img/DavidNewHaven.jpg)
+*(Left to right: David Ian Monserrate, Evander Douglas Thompson, Charlie Christo, Connor Remy.)*
 
+![Pans](/assets/img/Pans.jpg)
 <!-- {:.image-caption} -->
 *(Left to right: Rodrigo Gabriel Silva Mariani, Jozef Chen, David Ian Monserrate, Rafael Leite Borges.)*

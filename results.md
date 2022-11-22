@@ -18,5 +18,5 @@ permalink: /results/
 
 ![Pans](/assets/img/Pans.jpg)
 
-{:.image-caption}
+<!-- {:.image-caption} -->
 *(Left to right: Rodrigo Gabriel Silva Mariani, Jozef Chen, David Ian Monserrate, Rafael Leite Borges.)*

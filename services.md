@@ -6,10 +6,15 @@ sitemap: false
 permalink: /services/
 ---
 
-Below is a list of services, with descriptions, that I provide. If you are interested in any of these, then click [here](https://davidmonserrate.github.io/booknow/) to book now!
+Below is a list of services, with descriptions and rates, that I provide. If you are interested in any of these, then click [here](https://davidmonserrate.github.io/booknow/) to book now!
 
 ## BJJ Gi Privates
 These are 1 hour long, one on one private lessons with the gi. Training will be tailored for the athlete.
+
+### Packages
+One person: $50 an hour
+Two people: $40 an hour per person
+Three-four people: $30 an hour per person
 
 ## BJJ No-Gi Privates
 These are 1 hour long, one on one private lessons without the gi. This includes no-gi and wrestling privates. Training will be tailored for the athlete. 

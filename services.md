@@ -20,6 +20,6 @@ Personal Training Sessions are 1 hour long. These include personalized training 
 ## Initial Consultation
 Initial consultations last around 45 minutes and are meant for me to get an idea of your goals and needs, so that I can design the best training plan for you. 
 
-
+## Flyer
 ![Flyer](/assets/img/DavidMonserrateV3.png)
 

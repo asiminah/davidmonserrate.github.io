@@ -10,10 +10,11 @@ Below is a list of services, with descriptions and rates, that I provide. If you
 
 ## BJJ Gi Privates
 These are 1 hour long, one on one private lessons with the gi. Training will be tailored for the athlete.
-
 ### Packages
 One person: $50 an hour
+
 Two people: $40 an hour per person
+
 Three-four people: $30 an hour per person
 
 ## BJJ No-Gi Privates

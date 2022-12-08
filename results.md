@@ -10,11 +10,11 @@ permalink: /results/
 * [World IBJJF No-Gi Championship 2022](https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2022)
 
 ## Competition Results:
-* [New Haven Fall International Open IBJJF No-Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/2035/PublicResults?lang=en-US), Male/Adult/Purple/Middle, 2nd place
-* [Pan IBJJF No-Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1926/PublicResults?lang=en-US), Male/Adult/Purple/Middle, 3rd place
-* [New Haven International Open IBJJF Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1967/PublicResults), Male/Adult/Purple/Middle, 3rd place
+* [New Haven Fall International Open IBJJF No-Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/2035/PublicResults?lang=en-US), Male/Adult/Purple/Middle, **2nd place**
+* [Pan IBJJF No-Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1926/PublicResults?lang=en-US), Male/Adult/Purple/Middle, **3rd place**
+* [New Haven International Open IBJJF Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1967/PublicResults), Male/Adult/Purple/Middle, **3rd place**
 * [Washington D.C. International Open IBJJF Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1936/PublicResults), Male/Adult/Purple/Middle, 3rd place
-* New England Submission Only No-Gi Championship 2022, Expert ivision champion
+* New England Submission Only No-Gi Championship 2022, **Expert ivision champion**
 
 ![NewHaven](/assets/img/DavidNewHaven.jpg)
 *(Left to right: David Ian Monserrate, Evander Douglas Thompson, Charlie Christo, Connor Remy.)*

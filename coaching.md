@@ -18,7 +18,7 @@ I am currently coaching No-Gi classes Mon./Wed./Fri. mornings at [Secret Pages B
 
 The Mon./Wed./Fri. classes are located at [45 Industrial Park Road West Unit J/K Tolland, CT 06084](https://www.google.com/maps/place/45+Industrial+Park+Rd+W+j+k,+Tolland,+CT+06084/@41.8616852,-72.4229091,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6f426970fa11f:0xcb089c41736fdb9e!8m2!3d41.8616812!4d-72.4207151). 
 
-The Thursday class is located at [2717 New London Turnpike, Glastonbury, CT 06073](https://www.google.com/maps/place/2717+New+London+Turnpike,+South+Glastonbury,+CT+06073/@41.6718809,-72.5396537,17z/data=!3m1!4b1!4m5!3m4!1s0x89e64fe1f346909f:0x85dc169f5b667455!8m2!3d41.6718769!4d-72.5374597).
+The Thursday class is located at [2217 New London Turnpike, Glastonbury, CT 06073](https://www.google.com/maps/place/2217+New+London+Turnpike,+South+Glastonbury,+CT+06073/@41.6797233,-72.5493192,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6502178a29017:0x73004f27be4aa179!8m2!3d41.6797193!4d-72.5471252).
 
 <!--
 ![Pans](/assets/img/Pans.jpg)

@@ -12,8 +12,8 @@ I am currently coaching No-Gi classes Mon./Wed./Fri. mornings at [Secret Pages B
 | Times           | Monday        | Tuesday    |  Wednesday  | Thursday    |  Friday      |
 | :----:          |    :----:     | :----:     |     :---:   |  :----:     |  :----:      |
 | ----            |               |            |             |             |              |
-| 10am - 11:30am  |  No-Gi        | <span style="color:blue">BJJ</span>  |    No-Gi    |  <span style="color:blue">BJJ</span>    |  No-Gi       |
-| 12pm - 1:30pm   | <span style="color:blue">BJJ</span>  |            |             |  No-Gi      |              |
+| 10am - 11:30am  |  No-Gi        | <span style="color:blue">All levels BJJ</span>  |    No-Gi    |  <span style="color:blue">All levels BJJ</span>    |  No-Gi       |
+| 12pm - 1:30pm   | <span style="color:blue">All levels BJJ</span>  |            |             |  No-Gi      |              |
 | 6pm - 7pm       | <span style="color:blue">Beg. BJJ</span>  |            |             |             | <span style="color:blue">Adv. BJJ</span> |
 | 7:15pm - 8:15pm | <span style="color:blue">Adv. BJJ</span>  |            |             |             |              |
 

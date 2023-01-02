@@ -24,7 +24,7 @@ All classes in <span style="color:red">red</span> are located at [45 Industrial 
 
 All classes in <span style="color:green">green</span> are located at [2217 New London Turnpike, Glastonbury, CT 06073](https://www.google.com/maps/place/2217+New+London+Turnpike,+South+Glastonbury,+CT+06073/@41.6797233,-72.5493192,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6502178a29017:0x73004f27be4aa179!8m2!3d41.6797193!4d-72.5471252).
 
-All classes in <span style="color:blue">blue</span> are located at 
+All classes in <span style="color:blue">blue</span> are located at [256 Oakwood Drive, Glastonbury, CT 06033](https://www.google.com/maps/place/256+Oakwood+Dr,+Glastonbury,+CT+06033/@41.7108871,-72.5797422,17z/data=!3m1!4b1!4m5!3m4!1s0x89e651afa4e0da6f:0x83ee31a67a05010f!8m2!3d41.7108831!4d-72.5775482). 
 
 <!--
 ![Pans](/assets/img/Pans.jpg)

@@ -23,7 +23,7 @@ I am currently coaching Gi and No-Gi BJJ classes Mon./Wed./Fri. mornings at [Sec
 -->
 
 
-All classes in <span style="color:red">red</span> are located at [45 Industrial Park Road West Unit J/K Tolland, CT 06084](https://www.google.com/maps/place/45+Industrial+Park+Rd+W+j+k,+Tolland,+CT+06084/@41.8616852,-72.4229091,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6f426970fa11f:0xcb089c41736fdb9e!8m2!3d41.8616812!4d-72.4207151). 
+All classes in <span style="color:red">red</span> are located at [97 Gerber Drive, Building 2, Unit 3, Tolland, CT 06084](https://www.google.com/maps/place/97+Gerber+Dr+2+3,+Tolland,+CT+06084/@41.8585068,-72.4182142,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6f4256dab1e75:0x979de6ecd0bf8c75!8m2!3d41.8585028!4d-72.4160202). 
 
 All classes in <span style="color:green">green</span> are located at [2217 New London Turnpike, Glastonbury, CT 06073](https://www.google.com/maps/place/2217+New+London+Turnpike,+South+Glastonbury,+CT+06073/@41.6797233,-72.5493192,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6502178a29017:0x73004f27be4aa179!8m2!3d41.6797193!4d-72.5471252).
 

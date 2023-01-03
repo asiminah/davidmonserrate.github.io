@@ -8,7 +8,10 @@ permalink: /coaching/
 
 I am currently coaching Gi and No-Gi BJJ classes Mon./Wed./Fri. mornings at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/), Thurs. at [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule), and Mon./Tues./Thurs./Fri. at the [Om Glastonbury Wellness Center](https://www.omglastonbury.com/). Feel free to drop by!
 
+![Schedule](/assets/img/DavidSchedule.png)
+*(Schedule subject to change.)*
 
+<!--
 | Times           | Monday        | Tuesday    |  Wednesday  | Thursday    |  Friday      |
 | :----:          |    :----:     | :----:     |     :---:   |  :----:     |  :----:      |
 | ----            |               |            |             |             |              |
@@ -17,7 +20,7 @@ I am currently coaching Gi and No-Gi BJJ classes Mon./Wed./Fri. mornings at [Sec
 | Break           |               |            |             |             |              |
 | 6pm - 7pm       | <span style="color:blue">Beg. BJJ</span>  |            |             |             | <span style="color:blue">Adv. BJJ</span> |
 | 7:15pm - 8:15pm | <span style="color:blue">Adv. BJJ</span>  |            |             |             |              |
-
+-->
 
 
 All classes in <span style="color:red">red</span> are located at [45 Industrial Park Road West Unit J/K Tolland, CT 06084](https://www.google.com/maps/place/45+Industrial+Park+Rd+W+j+k,+Tolland,+CT+06084/@41.8616852,-72.4229091,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6f426970fa11f:0xcb089c41736fdb9e!8m2!3d41.8616812!4d-72.4207151). 

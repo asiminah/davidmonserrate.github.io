@@ -11,7 +11,7 @@ permalink: /results/
 * [World IBJJF No-Gi Championship 2022](https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2022)
 * [Pan IBJJF Championship 2023](https://ibjjf.com/events/pan-ibjjf-jiu-jitsu-championship-2023)
 -->
-* Top Level Pro 11, April 22
+* Top Level Pro 11, April 22 2023
 
 ## Competition Results:
 * [New Haven Fall International Open IBJJF No-Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/2035/PublicResults?lang=en-US), Male/Adult/Purple/Middle, **2nd place**

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /coaching/
 ---
 
-I am currently coaching Gi and No-Gi BJJ classes Mon./Wed./Fri. mornings at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/), Thurs. at [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule), and Mon./Tues./Wed./Thurs./Fri. at the [Om Glastonbury Wellness Center](https://www.omglastonbury.com/). Feel free to drop by!
+I am currently coaching Gi, No-Gi, and Wrestling classes Mon./Wed./Fri. mornings at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/), Tues./Thurs. at [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule), and Mon./Tues./Wed./Thurs./Fri. at the [Om Glastonbury Wellness Center](https://www.omglastonbury.com/). Feel free to drop by!
 
 ![Schedule](/assets/img/DavidSchedule.png)
 

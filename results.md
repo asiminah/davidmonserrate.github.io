@@ -11,7 +11,7 @@ permalink: /results/
 * [World IBJJF No-Gi Championship 2022](https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2022)
 * [Pan IBJJF Championship 2023](https://ibjjf.com/events/pan-ibjjf-jiu-jitsu-championship-2023)
 -->
-<!-- * Top Level Pro 12 (Submission Only Superfight), July 22 2023 -->
+* Top Level Pro 12 (Submission Only Superfight), July 22 2023
 
 ## Competition Results:
 * [Top Level Pro 11 (Submission Only Superfight)](https://www.tapology.com/fightcenter/events/99805-top-level-pro-grappling-11), April 22 2023, **Won**

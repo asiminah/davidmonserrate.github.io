@@ -13,6 +13,7 @@ permalink: /results/
 -->
 * Top Level Pro 12 (Submission Only Superfight), July 22 2023
 * [New York International Open IBJJF No-Gi Championship 2023](https://ibjjf.com/events/new-york-international-open-ibjjf-jiu-jitsu-no-gi-championship-2023), August 5-6, 2023
+* [Jiu-Jitsu CON No-Gi International 2023](https://ibjjf.com/events/jiu-jitsu-con-no-gi-international-2023), Aug. 31 - Sept. 1, 2023
 
 ## Competition Results:
 * [Top Level Pro 11 (Submission Only Superfight)](https://www.tapology.com/fightcenter/events/99805-top-level-pro-grappling-11), April 22 2023, **Won**

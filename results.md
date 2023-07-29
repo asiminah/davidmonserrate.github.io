@@ -10,8 +10,8 @@ permalink: /results/
 <!--
 * [World IBJJF No-Gi Championship 2022](https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2022)
 * [Pan IBJJF Championship 2023](https://ibjjf.com/events/pan-ibjjf-jiu-jitsu-championship-2023)
--->
 * Top Level Pro 12 (Submission Only Superfight), July 22 2023
+-->
 * [New York International Open IBJJF No-Gi Championship 2023](https://ibjjf.com/events/new-york-international-open-ibjjf-jiu-jitsu-no-gi-championship-2023), August 5-6, 2023
 * [Jiu-Jitsu CON No-Gi International 2023](https://ibjjf.com/events/jiu-jitsu-con-no-gi-international-2023), Aug. 31 - Sept. 1, 2023
 

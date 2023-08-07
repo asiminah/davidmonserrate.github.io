@@ -12,10 +12,10 @@ permalink: /results/
 * [Pan IBJJF Championship 2023](https://ibjjf.com/events/pan-ibjjf-jiu-jitsu-championship-2023)
 * Top Level Pro 12 (Submission Only Superfight), July 22 2023
 -->
-* [New York International Open IBJJF No-Gi Championship 2023](https://ibjjf.com/events/new-york-international-open-ibjjf-jiu-jitsu-no-gi-championship-2023), August 5-6, 2023
 * [Jiu-Jitsu CON No-Gi International 2023](https://ibjjf.com/events/jiu-jitsu-con-no-gi-international-2023), Aug. 31 - Sept. 1, 2023
 
 ## Competition Results:
+* [New York International Open IBJJF No-Gi Championship 2023](https://www.ibjjfdb.com/ChampionshipResults/2243/PublicResults), Male/Adult/Brown/Middle, **3rd place**
 * [Top Level Pro 11 (Submission Only Superfight)](https://www.tapology.com/fightcenter/events/99805-top-level-pro-grappling-11), April 22 2023, **Won**
 * [New Haven Fall International Open IBJJF No-Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/2035/PublicResults?lang=en-US), Male/Adult/Purple/Middle, **2nd place**
 * [Pan IBJJF No-Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1926/PublicResults?lang=en-US), Male/Adult/Purple/Middle, **3rd place**

@@ -53,7 +53,7 @@ menu:
     url:                /results/
   - title:              Coaching
     url:                /coaching/
-  - title:              Services and Rates
+  - title:              Services
     url:                /services/
   #- title:             Fitness
   #  url:               /fitness/

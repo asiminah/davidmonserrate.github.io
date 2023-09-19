@@ -24,6 +24,9 @@ permalink: /results/
 * [Washington D.C. International Open IBJJF Gi Championship 2022](https://www.ibjjfdb.com/ChampionshipResults/1936/PublicResults), Male/Adult/Purple/Middle, **3rd place**
 * New England Submission Only No-Gi Championship 2022, **Expert division champion**
 
+![JJCon](/assets/img/DavidJJCon.jpg)
+*(Left to right: David Ian Monserrate, Tyler Shew, Eliazar Guardiola.)*
+
 ![NewHaven](/assets/img/DavidNewHaven.jpg)
 *(Left to right: David Ian Monserrate, Evander Douglas Thompson, Charlie Christo, Connor Remy.)*
 

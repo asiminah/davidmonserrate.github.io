@@ -27,14 +27,17 @@ These are 1 hour long, one on one private lessons without the gi. This includes 
 3-4 people: $50/hour per person 
 -->
 
-## Personal Training Sessions
+
+## Physical Fitness 
+* **Personal Training Sessions**
+  
 Personal Training Sessions are 1 hour long. These include personalized training programs. 
 
-## Personalized Training Programs
+* **Personalized Training Programs**
+  
 Personalized Training Programs are usually designed as 4-week training plans tailored for the clients goals. 
 
-
-## Initial Consultation
+* **Initial Consultation**
 Initial consultations last around 45 minutes and are meant for me to get an idea of your goals and needs, so that I can design the best training plan for you. 
 
 <!--

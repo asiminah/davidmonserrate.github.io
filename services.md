@@ -6,7 +6,7 @@ sitemap: false
 permalink: /services/
 ---
 
-Below is a list of services and rates, with descriptions and packages, that I provide. If you are interested in any of these, then click [here](https://davidmonserrate.github.io/booknow/) to book now!
+Below is a list of services that I provide. If you are interested in any of these, then click [here](https://davidmonserrate.github.io/booknow/) to book now!
 
 ## Brazilian Jiu-Jitsu 
 * **BJJ Gi Privates:** These are 1 hour long, one on one private lessons with the gi. Training will be tailored for the athlete.

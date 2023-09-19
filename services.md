@@ -38,6 +38,7 @@ Personal Training Sessions are 1 hour long. These include personalized training 
 Personalized Training Programs are usually designed as 4-week training plans tailored for the clients goals. 
 
 * **Initial Consultation**
+  
 Initial consultations last around 45 minutes and are meant for me to get an idea of your goals and needs, so that I can design the best training plan for you. 
 
 <!--

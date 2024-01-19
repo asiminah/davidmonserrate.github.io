@@ -6,7 +6,7 @@ sitemap: false
 permalink: /coaching/
 ---
 
-I am currently coaching No-Gi and Wrestling classes Tuesday's, Thursday's, and Friday's at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/) and [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule). Feel free to drop by!
+I am currently coaching No-Gi and Wrestling classes Tuesday, Thursday, and Friday at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/) and [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule). Feel free to drop by!
 
 ![Schedule](/assets/img/DavidSchedule.png)
 

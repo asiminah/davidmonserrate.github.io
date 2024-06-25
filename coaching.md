@@ -6,7 +6,7 @@ sitemap: false
 permalink: /coaching/
 ---
 
-I am currently coaching No-Gi and Wrestling classes Tuesday, Thursday, and Friday at [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/) and [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule). Feel free to drop by!
+I am currently coaching at [Renzo Gracie East Side](https://www.renzogracieeastside.com/) in NY, [Secret Pages Brazilian Jiu-Jitsu](http://secretpagesbjj.com/) and [F.I.T.E. Fit Jiu-Jitsu](https://www.joinfitefit.com/schedule) in CT. Feel free to drop by!
 
 ![Schedule](/assets/img/DavidSchedule.png)
 
@@ -22,6 +22,7 @@ I am currently coaching No-Gi and Wrestling classes Tuesday, Thursday, and Frida
 | 7:15pm - 8:15pm | <span style="color:blue">Adv. BJJ</span>  |            |             |             |              |
 -->
 
+All classes in <span style="color:yellow">yellow</span> (Renzo Gracie East Side) are located at [1264 Lexington Avenue (enter on 85th Street), 2nd floor, New York, NY 10028](https://www.google.com/maps/place/Renzo+Gracie+East+Side+Martial+Arts/@40.7791481,-73.9585823,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2598daabd5d4f:0xdba746662ea9a671!8m2!3d40.7791441!4d-73.956002!16s%2Fg%2F11w3c9ynzs?entry=ttu).
 
 All classes in <span style="color:red">red</span> (Secret Pages) are located at [97 Gerber Drive, Building 2, Unit 3, Tolland, CT 06084](https://www.google.com/maps/place/97+Gerber+Dr+2+3,+Tolland,+CT+06084/@41.8585068,-72.4182142,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6f4256dab1e75:0x979de6ecd0bf8c75!8m2!3d41.8585028!4d-72.4160202). 
 

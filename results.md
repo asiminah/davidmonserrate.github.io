@@ -15,8 +15,8 @@ permalink: /results/
 * Top Level Pro 12 (Submission Only Superfight), July 22 2023
 -->
 
-
 ## Competition Results:
+* [New York Summer International Open IBJJF No-Gi Championship 2024](https://www.ibjjfdb.com/ChampionshipResults/2561/PublicResults), Male/Master 1/Brown/Middle, **1st place**
 * [New Jersey International Open IBJJF No-Gi Championship 2024](https://www.ibjjfdb.com/ChampionshipResults/2468/PublicResults), Male/Adult/Brown/Light, **3rd place**
 * [Jiu-Jitsu CON No-Gi International 2023](https://www.ibjjfdb.com/ChampionshipResults/2105/PublicResults?lang=en-US), Male/Adult/Brown/Middle, **2nd place**
 * [New York International Open IBJJF No-Gi Championship 2023](https://www.ibjjfdb.com/ChampionshipResults/2243/PublicResults), Male/Adult/Brown/Middle, **3rd place**

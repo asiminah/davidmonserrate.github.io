@@ -6,12 +6,11 @@ sitemap: false
 permalink: /results/
 ---
 
+## Upcoming Competitions:
+
 <!-- * [World IBJJF No-Gi Championship 2022](https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2022) -->
 <!-- * [Pan IBJJF Championship 2023](https://ibjjf.com/events/pan-ibjjf-jiu-jitsu-championship-2023) -->
 <!-- * Top Level Pro 12 (Submission Only Superfight), July 22 2023 -->
-<!-- * Top Level Pro 17 (Submission Only Superfight), August 24, 2024 -->
-
-## Upcoming Competitions:
 
 ## Competition Results:
 * [New York Summer International Open IBJJF No-Gi Championship 2024](https://www.ibjjfdb.com/ChampionshipResults/2561/PublicResults), Male/Master 1/Brown/Middle, **1st place**

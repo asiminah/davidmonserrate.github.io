@@ -7,7 +7,6 @@ permalink: /results/
 ---
 
 ## Upcoming Competitions:
-
   
 <!--
 * [World IBJJF No-Gi Championship 2022](https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2022)
